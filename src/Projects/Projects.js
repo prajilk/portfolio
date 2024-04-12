@@ -1,5 +1,14 @@
 const projectArray = [
     {
+        title: 'Diagram Website Clone ⚫',
+        description: "An exact replica of the Diagram website using Next.js and Tailwind CSS. Enjoy the same sleek design and user-friendly features in this clone. Explore the demo to see it in action!",
+        techStack: ['NextJS', 'Typescript', 'Framer motion', 'TailwindCSS'],
+        codeLink: 'https://github.com/prajilk/diagram-clone',
+        demoLink: 'https://diagram-clone.vercel.app',
+        imgPath: 'diagram-clone.png',
+        scrollable: true
+    },
+    {
         title: 'IRCTC Redesign 🚇',
         description: "The IRCTC Redesign Landing Page is a modern interpretation of the IRCTC website's landing page. Developed with NextJS based on design inspirations from UX designer Alok's Figma prototypes.",
         techStack: ['NextJS', 'Typescript', 'TailwindCSS'],
