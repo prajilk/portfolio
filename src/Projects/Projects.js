@@ -1,5 +1,14 @@
 const projectArray = [
     {
+        title: 'Linear Website Clone ⚫',
+        description: "A stunning landing page design inspired by Linear! Developed using Next.js and Tailwind CSS, this sleek interface captures the essence of Linear's modern aesthetic.",
+        techStack: ['NextJS', 'Typescript', 'Framer motion', 'TailwindCSS'],
+        codeLink: 'https://github.com/prajilk/linear-clone',
+        demoLink: 'https://linear-clone-v1.vercel.app',
+        imgPath: 'linear-clone.png',
+        scrollable: true
+    },
+    {
         title: 'Diagram Website Clone ⚫',
         description: "An exact replica of the Diagram website using Next.js and Tailwind CSS. Enjoy the same sleek design and user-friendly features in this clone. Explore the demo to see it in action!",
         techStack: ['NextJS', 'Typescript', 'Framer motion', 'TailwindCSS'],
