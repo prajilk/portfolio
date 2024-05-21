@@ -1,5 +1,14 @@
 const projectArray = [
     {
+        title: 'WorkLoop 💼',
+        description: "A MERN stack platform for job seekers and freelancers to find, post jobs, and connect. Features include chat and notifications for seamless communication.",
+        techStack: ['React', 'Node.js', 'Express', 'MongoDB', 'Socket.io', 'Framer motion', 'TailwindCSS'],
+        codeLink: 'https://github.com/prajilk?tab=repositories',
+        demoLink: 'https://workloop.vercel.app',
+        imgPath: 'workloop.png',
+        scrollable: true
+    },
+    {
         title: 'Linear Website Clone ⚫',
         description: "A stunning landing page design inspired by Linear! Developed using Next.js and Tailwind CSS, this sleek interface captures the essence of Linear's modern aesthetic.",
         techStack: ['NextJS', 'Typescript', 'Framer motion', 'TailwindCSS'],
