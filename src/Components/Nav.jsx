@@ -40,12 +40,21 @@ function DrawerAppBar() {
             <List sx={{ textAlign: "center" }}>
                 <ListItem>
                     <ListItemText sx={{ textAlign: "center" }}>
-                        <Link
+                        <a
+                            href="https://prajilk-v1.vercel.app"
+                            target="_blank"
+                            className="sidenav-button"
+                            rel="noreferrer"
+                            style={{ textDecoration: "none" }}
+                        >
+                            Portfolio V1
+                        </a>
+                        {/* <Link
                             to="https://prajilk-v1.vercel.app"
                             className="sidenav-button"
                         >
                             Portfolio V1
-                        </Link>
+                        </Link> */}
                     </ListItemText>
                 </ListItem>
                 {navItems.map((item) => (
