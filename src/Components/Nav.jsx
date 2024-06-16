@@ -54,6 +54,7 @@ function DrawerAppBar() {
                             <Link
                                 to={item}
                                 smooth={true}
+                                onClick={handleDrawerToggle}
                                 duration={500}
                                 className="sidenav-button"
                             >
