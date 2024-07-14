@@ -54,15 +54,6 @@ const projectArray = [
         scrollable: true
     },
     {
-        title: 'Layer Clay Design ❐',
-        description: "I've just finished developing a React design based on this stunning Figma design by @uxui_howard.le.It was an incredible journey bringing this vision to life.",
-        techStack: ['ReactJS', 'Typescript', 'TailwindCSS'],
-        codeLink: 'https://github.com/prajilk/layer-clay-design',
-        demoLink: 'https://layer-clay-design.vercel.app/',
-        imgPath: 'layer-clay.png',
-        scrollable: false
-    },
-    {
         title: 'Gaming Space 🎮',
         description: "I'm thrilled to share my latest project - the React version of this amazing Game Live Streaming Platform design by Rina Grim on Dribbble.",
         techStack: ['ReactJS', 'Typescript', 'TailwindCSS'],

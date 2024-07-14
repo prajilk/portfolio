@@ -49,12 +49,6 @@ function DrawerAppBar() {
                         >
                             Portfolio V1
                         </a>
-                        {/* <Link
-                            to="https://prajilk-v1.vercel.app"
-                            className="sidenav-button"
-                        >
-                            Portfolio V1
-                        </Link> */}
                     </ListItemText>
                 </ListItem>
                 {navItems.map((item) => (

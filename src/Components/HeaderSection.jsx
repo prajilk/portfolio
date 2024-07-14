@@ -19,6 +19,7 @@ const techStacks = [
     { label: "MongoDB", icon: "mongodb.svg" },
     { label: "Express JS", icon: "expressjs-icon.svg" },
     { label: "React JS", icon: "reactjs-icon.svg" },
+    { label: "Next JS", icon: "nextjs-icon.svg" },
     { label: "Vite JS", icon: "vitejs.svg" },
     { label: "Node JS", icon: "nodejs-icon.svg" },
     { label: "Socket.io", icon: "socket-io.svg" },
@@ -26,6 +27,7 @@ const techStacks = [
     { label: "Git", icon: "git-icon.svg" },
     { label: "Tailwind CSS", icon: "tailwindcss-icon.svg" },
     { label: "Bootstrap", icon: "getbootstrap-icon.svg" },
+    { label: "SASS", icon: "sass-icon.svg" },
     { label: "Material UI", icon: "material-ui.svg" },
     { label: "Visual Studio Code", icon: "visual-studio-code.svg" },
 ];
