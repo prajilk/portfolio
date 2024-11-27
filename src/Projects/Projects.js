@@ -1,5 +1,14 @@
 const projectArray = [
     {
+        title: 'GSAP Artist 🎨',
+        description: "An engaging, fully responsive animation website built using GSAP, Next.js, etc. Every interaction, transition, and detail was crafted to bring the design to life!",
+        techStack: ['Next.js', 'GSAP', 'TailwindCSS'],
+        codeLink: 'https://github.com/prajilk/gsap-artist',
+        demoLink: 'https://gsap-artist.vercel.app',
+        imgPath: 'gsap-artist.png',
+        scrollable: false
+    },
+    {
         title: 'WorkLoop 💼',
         description: "A MERN stack platform for job seekers and freelancers to find, post jobs, and connect. Features include chat and notifications for seamless communication.",
         techStack: ['React', 'Node.js', 'Express', 'MongoDB', 'Socket.io', 'Framer motion', 'TailwindCSS'],
