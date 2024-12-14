@@ -50,7 +50,7 @@ const AboutSection = () => {
                         >
                             <Box
                                 component="img"
-                                src={"/images/working-emoji.png"}
+                                src={"/images/working-emoji.webp"}
                                 sx={{
                                     width: "4rem",
                                     position: "absolute",

@@ -5,7 +5,7 @@ const projectArray = [
         techStack: ['Next.js', 'GSAP', 'TailwindCSS'],
         codeLink: 'https://github.com/prajilk/gsap-artist',
         demoLink: 'https://gsap-artist.vercel.app',
-        imgPath: 'gsap-artist.png',
+        imgPath: 'gsap-artist.webp',
         scrollable: false
     },
     {
@@ -14,7 +14,7 @@ const projectArray = [
         techStack: ['React', 'Node.js', 'Express', 'MongoDB', 'Socket.io', 'Framer motion', 'TailwindCSS'],
         codeLink: 'https://github.com/prajilk?tab=repositories',
         demoLink: 'https://workloop.vercel.app',
-        imgPath: 'workloop.png',
+        imgPath: 'workloop.webp',
         scrollable: true
     },
     {
@@ -23,7 +23,7 @@ const projectArray = [
         techStack: ['NextJS', 'Typescript', 'Framer motion', 'TailwindCSS'],
         codeLink: 'https://github.com/prajilk/linear-clone',
         demoLink: 'https://linear-clone-v1.vercel.app',
-        imgPath: 'linear-clone.png',
+        imgPath: 'linear-clone.webp',
         scrollable: true
     },
     {
@@ -32,7 +32,7 @@ const projectArray = [
         techStack: ['NextJS', 'Typescript', 'Framer motion', 'TailwindCSS'],
         codeLink: 'https://github.com/prajilk/diagram-clone',
         demoLink: 'https://diagram-clone.vercel.app',
-        imgPath: 'diagram-clone.png',
+        imgPath: 'diagram-clone.webp',
         scrollable: true
     },
     {
@@ -41,7 +41,7 @@ const projectArray = [
         techStack: ['NextJS', 'Typescript', 'TailwindCSS'],
         codeLink: 'https://github.com/prajilk/irctc-redesign',
         demoLink: 'https://irctc-redesign.vercel.app',
-        imgPath: 'irctc-redesign.png',
+        imgPath: 'irctc-redesign.webp',
         scrollable: true
     },
     {
@@ -50,7 +50,7 @@ const projectArray = [
         techStack: ['NextJS', 'Typescript', 'PostgreSQL', 'RazorPay', 'TailwindCSS'],
         codeLink: 'https://github.com/prajilk/gadgexhub-nextjs',
         demoLink: 'https://gadgexhub.vercel.app',
-        imgPath: 'gadgexhub.png',
+        imgPath: 'gadgexhub.webp',
         scrollable: true
     },
     {
@@ -59,7 +59,7 @@ const projectArray = [
         techStack: ['NextJS', 'Typescript', 'PostgreSQL', 'ReCharts', 'TailwindCSS'],
         codeLink: 'https://github.com/prajilk/admin.gadgexhub',
         demoLink: 'https://admin-gadgexhub.vercel.app',
-        imgPath: 'admin-gadgexhub.png',
+        imgPath: 'admin-gadgexhub.webp',
         scrollable: true
     },
     {
@@ -68,7 +68,7 @@ const projectArray = [
         techStack: ['ReactJS', 'Typescript', 'TailwindCSS'],
         codeLink: 'https://github.com/prajilk/gaming-space',
         demoLink: 'https://gaming-space-react.vercel.app/',
-        imgPath: 'gaming-space.png',
+        imgPath: 'gaming-space.webp',
         scrollable: false
     },
     {
@@ -77,7 +77,7 @@ const projectArray = [
         techStack: ['Javascript', 'NPM', 'TailwindCSS'],
         codeLink: 'https://github.com/prajilk/install-tailwindcss',
         demoLink: 'https://www.npmjs.com/package/install-tailwindcss',
-        imgPath: 'install-tailwind.png',
+        imgPath: 'install-tailwind.webp',
         scrollable: false
     },
     {
@@ -86,7 +86,7 @@ const projectArray = [
         techStack: ['ReactJS', 'Tailwind CSS', 'Uppy', 'Tus', 'NodeJS', 'ExpressJS', 'Firebase', 'MongoDB'],
         codeLink: 'https://github.com/prajilk?tab=repositories',
         demoLink: 'https://cloudpix.vercel.app',
-        imgPath: 'cloudpix.png',
+        imgPath: 'cloudpix.webp',
         scrollable: false
     },
     {
@@ -95,7 +95,7 @@ const projectArray = [
         techStack: ['MongoDB', 'ExpressJS', 'ReactJS', 'NodeJS', 'Material UI'],
         codeLink: 'https://github.com/prajilk?tab=repositories',
         demoLink: 'https://formease.vercel.app',
-        imgPath: 'formease.png',
+        imgPath: 'formease.webp',
         scrollable: true
     },
     {
@@ -104,7 +104,7 @@ const projectArray = [
         techStack: ['MongoDB', 'ExpressJS', 'ReactJS', 'NodeJS', 'Socket.io', 'Bootstrap'],
         codeLink: 'https://github.com/prajilk?tab=repositories',
         demoLink: 'https://mern-mmessenger.onrender.com',
-        imgPath: 'mMessenger.png',
+        imgPath: 'mMessenger.webp',
         scrollable: false
     }
 ]
