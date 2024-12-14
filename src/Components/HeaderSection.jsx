@@ -200,6 +200,8 @@ const HeaderSection = () => {
                                             <img
                                                 src={"/images/" + stack.icon}
                                                 alt="..."
+                                                width="32px"
+                                                height="32px"
                                             />
                                         </li>
                                     </Tooltip>
