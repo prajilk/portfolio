@@ -84,7 +84,7 @@ const HeaderSection = () => {
                             <Box
                                 component="img"
                                 alt="..."
-                                src={"/images/waving.png"}
+                                src={"/images/waving.webp"}
                                 sx={{
                                     [theme.breakpoints.down("md")]: {
                                         width: "2.5rem",
