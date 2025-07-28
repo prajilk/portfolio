@@ -36,15 +36,6 @@ const projectArray = [
         scrollable: true
     },
     {
-        title: 'IRCTC Redesign 🚇',
-        description: "The IRCTC Redesign Landing Page is a modern interpretation of the IRCTC website's landing page. Developed with NextJS based on design inspirations from UX designer Alok's Figma prototypes.",
-        techStack: ['NextJS', 'Typescript', 'TailwindCSS'],
-        codeLink: 'https://github.com/prajilk/irctc-redesign',
-        demoLink: 'https://irctc-redesign.vercel.app',
-        imgPath: 'irctc-redesign.webp',
-        scrollable: true
-    },
-    {
         title: 'GadgeXhub 🛒',
         description: 'I create eCommerce web app using Next.js, powered by PostgreSQL for robust data management. Seamlessly integrated with Razorpay for secure payments, the apps come with a user-friendly admin dashboard for full control. Fast, reliable, and tailored to your business needs.',
         techStack: ['NextJS', 'Typescript', 'PostgreSQL', 'RazorPay', 'TailwindCSS'],
@@ -61,15 +52,6 @@ const projectArray = [
         demoLink: 'https://admin-gadgexhub.vercel.app',
         imgPath: 'admin-gadgexhub.webp',
         scrollable: true
-    },
-    {
-        title: 'Gaming Space 🎮',
-        description: "I'm thrilled to share my latest project - the React version of this amazing Game Live Streaming Platform design by Rina Grim on Dribbble.",
-        techStack: ['ReactJS', 'Typescript', 'TailwindCSS'],
-        codeLink: 'https://github.com/prajilk/gaming-space',
-        demoLink: 'https://gaming-space-react.vercel.app/',
-        imgPath: 'gaming-space.webp',
-        scrollable: false
     },
     {
         title: 'install-tailwindcss 📥',
@@ -97,15 +79,6 @@ const projectArray = [
         demoLink: 'https://formease.vercel.app',
         imgPath: 'formease.webp',
         scrollable: true
-    },
-    {
-        title: 'mMessenger 💬',
-        description: 'This project demonstrates my proficiency in developing a responsive chat app using ReactJS, MongoDB, ExpressJS, NodeJS, and socket.io. It showcases my skills in data storage, server-side requests, and real-time communication.',
-        techStack: ['MongoDB', 'ExpressJS', 'ReactJS', 'NodeJS', 'Socket.io', 'Bootstrap'],
-        codeLink: 'https://github.com/prajilk?tab=repositories',
-        demoLink: 'https://mern-mmessenger.onrender.com',
-        imgPath: 'mMessenger.webp',
-        scrollable: false
     }
 ]
 
